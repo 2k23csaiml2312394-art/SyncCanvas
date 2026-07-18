@@ -28,11 +28,11 @@ Built with **React 19**, **TypeScript**, **HTML5 Canvas**, **Socket.IO**, **Zust
 
 Frontend
 
-> https://your-vercel-url.vercel.app
+> https://collab-slate-271v.vercel.app
 
 Backend
 
-> https://collabslate-1.onrender.com
+> https://collabslate-2.onrender.com
 
 
 ---
