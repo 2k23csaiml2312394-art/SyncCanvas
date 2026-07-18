@@ -37,29 +37,17 @@ Backend
 
 ---
 
-# 🎥 Project Demo
-
-> Replace this section with a GIF after deployment.
-
-```text
-assets/demo.gif
-```
-
-```markdown
-![Demo](assets/demo.gif)
-```
-
 ---
 
 # 📸 Screenshots
 
 | Home | Whiteboard |
-|------|------------|
-| ![](assets/home.png) | ![](assets/canvas.png) |
+<img width="960" height="600" alt="Screenshot 2026-07-18 052722" src="https://github.com/user-attachments/assets/3aea0d09-c0c5-48eb-b60d-78ba4d2abcb1" />
+
 
 | Collaboration | Room Lobby |
-|--------------|------------|
-| ![](assets/collaboration.png) | ![](assets/lobby.png) |
+<img width="950" height="495" alt="image" src="https://github.com/user-attachments/assets/e82799a7-63f6-4c21-a379-4d50ed033ace" />
+
 
 ---
 
